@@ -1,0 +1,2 @@
+Compilação: g++ -O3 -Wall -o random_k random_k.cpp -lm
+Execução: ./random_k 2 10 0.999 200 300 > testfile (podem variar os parâmetros e gerar vários ficheiros de teste)

@@ -1,0 +1,2 @@
+Compilação: g++ -std=c++11 -O3 -Wall randGeneoTree.cpp -lm -o randGeneoTree
+Execução: ./randGeneoTree 1000 0.9 > testfile (podem variar os parâmetros e gerar vários ficheiros de teste)
